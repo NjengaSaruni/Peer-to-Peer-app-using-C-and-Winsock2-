@@ -1,0 +1,2 @@
+# Peer-to-Peer-app-using-C-and-Winsock2-
+This application uses the client-server model. Clients connect to a central server. Once connected, a client receives a list of other peers connected to the server. The client then establishes a connection with one of the peers. After a successful connect, the peer can communicate to another without help form the server. The server stays alive to update the peers when another peer joins. 
